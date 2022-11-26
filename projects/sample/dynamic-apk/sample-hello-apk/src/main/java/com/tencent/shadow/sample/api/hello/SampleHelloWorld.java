@@ -18,7 +18,7 @@ public class SampleHelloWorld implements IHelloWorldImpl {
         if (textView == null) {
             return;
         }
-        textView.setText(text);
+//        textView.setText(text);
     }
 
     @Override
